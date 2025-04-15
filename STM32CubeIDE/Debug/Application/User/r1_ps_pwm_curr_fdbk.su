@@ -1,0 +1,14 @@
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:409:13:R1_GetPhaseCurrents	8	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:825:13:R1_HFCurrentsCalibration	4	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:869:17:R1_SetADCSampPointPolarization	4	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:1143:17:R1_CalcDutyCycles	88	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:79:6:R1_Init	32	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:290:13:R1_SetOffsetCalib	0	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:315:13:R1_GetOffsetCalib	0	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:915:13:R1_TurnOnLowSides	4	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:955:13:R1_SwitchOnPWM	32	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:1059:13:R1_SwitchOffPWM	16	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:339:13:R1_CurrentReadingCalibration	16	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:1344:14:R1_TIMx_UP_IRQHandler	0	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:1367:14:R1_DMAx_TC_IRQHandler	8	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/r1_ps_pwm_curr_fdbk.c:1425:14:R1_DMAx_HT_IRQHandler	0	static

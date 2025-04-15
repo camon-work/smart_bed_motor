@@ -1,0 +1,7 @@
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:362:13:FOC_Clear	16	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:80:13:FOC_Init	24	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:149:6:TSK_MF_StopProcessing	8	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:398:13:FOC_InitAdditionalMethods	0	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:421:13:FOC_CalcCurrRef	24	static,ignoring_inline_asm
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:167:13:TSK_MediumFrequencyTaskM1	24	static
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks_foc.c:476:16:FOC_HighFrequencyTask	56	static

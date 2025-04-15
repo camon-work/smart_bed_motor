@@ -1,0 +1,12 @@
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:88:13:MCboot	2
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:229:13:TSK_SetChargeBootCapDelayM1	1
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:240:13:TSK_ChargeBootCapDelayHasElapsedM1	1
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:256:13:TSK_SetStopPermanencyTimeM1	1
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:267:13:TSK_StopPermanencyTimeHasElapsedM1	1
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:293:16:TSK_HighFrequencyTask	1
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:341:13:TSK_SafetyTask_PWMOFF	2
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:316:13:TSK_SafetyTask	2
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:165:13:MC_RunMotorControlTasks	5
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:379:13:TSK_HardwareFaultTask	1
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:392:13:UI_HandleStartStopButton_cb	2
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/mc_tasks.c:410:13:mc_lock_pins	1

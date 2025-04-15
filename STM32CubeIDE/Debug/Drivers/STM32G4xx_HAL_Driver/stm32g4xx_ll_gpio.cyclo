@@ -1,0 +1,3 @@
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_gpio.c:108:13:LL_GPIO_DeInit	8
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_gpio.c:168:13:LL_GPIO_Init	18
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_gpio.c:240:6:LL_GPIO_StructInit	1

@@ -1,0 +1,2 @@
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/usart.c:29:6:MX_USART2_UART_Init	160	static,ignoring_inline_asm
+D:/project/STM32/STSPIN32G4/EVSPIN32G4_SmartBed/Src/usart.c:112:6:MX_USART3_UART_Init	160	static,ignoring_inline_asm
