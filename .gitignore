@@ -1,0 +1,39 @@
+# STM32CubeIDE generated files
+*.launch
+*.settings/
+.project
+.cproject
+
+# Build output folders
+/Debug/
+/Release/
+/build/
+
+# Object and dependency files
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.log
+
+# Backup & temporary files
+*~
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Python compiled files (if any scripts used)
+*.pyc
+__pycache__/
+
+# VS Code (if you're using it too)
+.vscode/
+
+# macOS & Windows junk
+.DS_Store
+Thumbs.db
