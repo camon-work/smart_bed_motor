@@ -1,8 +1,6 @@
 # STM32CubeIDE generated files
 *.launch
 *.settings/
-.project
-.cproject
 
 # Build output folders
 /Debug/
