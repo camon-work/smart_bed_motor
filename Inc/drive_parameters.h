@@ -33,7 +33,7 @@
 /*** Speed measurement settings ***/
 #define MAX_APPLICATION_SPEED_RPM           4000 /*!< rpm, mechanical */
 #define MIN_APPLICATION_SPEED_RPM           0 /*!< rpm, mechanical, absolute value */
-#define M1_SS_MEAS_ERRORS_BEFORE_FAULTS     5 /*!< Number of speed measurement errors before main sensor goes in fault */
+#define M1_SS_MEAS_ERRORS_BEFORE_FAULTS     3 /*!< Number of speed measurement errors before main sensor goes in fault */
 
 /****** Hall sensors ************/
 #define HALL_AVERAGING_FIFO_DEPTH           16 /*!< depth of the FIFO used to average  mechanical speed in 0.1Hz resolution */
@@ -46,7 +46,7 @@
 
 /**************************    DRIVE SETTINGS SECTION   **********************/
 /* PWM generation and current reading */
-#define PWM_FREQUENCY                       16000
+#define PWM_FREQUENCY                       20000
 #define PWM_FREQ_SCALING                    1
 #define LOW_SIDE_SIGNALS_ENABLING           LS_PWM_TIMER
 #define SW_DEADTIME_NS                      750 /*!< Dead-time to be inserted by FW, only if low side signals are enabled */
@@ -57,18 +57,18 @@
 
 /* Gains values for torque and flux control loops */
 #define PID_TORQUE_KP_DEFAULT               3600
-#define PID_TORQUE_KI_DEFAULT               2100
+#define PID_TORQUE_KI_DEFAULT               3360
 #define PID_TORQUE_KD_DEFAULT               100
 #define PID_FLUX_KP_DEFAULT                 3600
-#define PID_FLUX_KI_DEFAULT                 2100
+#define PID_FLUX_KI_DEFAULT                 3360
 #define PID_FLUX_KD_DEFAULT                 100
 
 /* Torque/Flux control loop gains dividers*/
 #define TF_KPDIV                            256
-#define TF_KIDIV                            4096
+#define TF_KIDIV                            8192
 #define TF_KDDIV                            8192
 #define TF_KPDIV_LOG                        LOG2((256))
-#define TF_KIDIV_LOG                        LOG2((4096))
+#define TF_KIDIV_LOG                        LOG2((8192))
 #define TF_KDDIV_LOG                        LOG2((8192))
 #define TFDIFFERENTIAL_TERM_ENABLING        DISABLE
 
