@@ -118,15 +118,15 @@ static uint8_t SystickDividerCounter = SYSTICK_DIVIDER;
 }
 
 /**
-  * @brief  This function handles Button IRQ on PIN PC13.
+  * @brief  This function handles Button IRQ on PIN PB10.
 
   */
 void EXTI15_10_IRQHandler(void)
 {
   /* USER CODE BEGIN START_STOP_BTN */
-  if (LL_EXTI_ReadFlag_0_31(LL_EXTI_LINE_13))
+  if (LL_EXTI_ReadFlag_0_31(LL_EXTI_LINE_10))
   {
-    LL_EXTI_ClearFlag_0_31(LL_EXTI_LINE_13);
+    LL_EXTI_ClearFlag_0_31(LL_EXTI_LINE_10);
     (void)UI_HandleStartStopButton_cb();
   }
   else
